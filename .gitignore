@@ -1,0 +1,12 @@
+# Python 
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+.DS_Store
+.vscode/
+
+# data
+./dataset/*
