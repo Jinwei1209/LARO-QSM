@@ -15,4 +15,4 @@ To simultaneously update the multi-echo sampling pattern and image reconstructio
 
 ```python main_multi_echo_MS.py --flag_train=1 --K=2 --loupe=2```
 
-Please contact jz853@cornell.edu for questions and data sharing. 
+Please contact jwzhang@jhu.edu for questions and data sharing. 
